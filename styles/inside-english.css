@@ -1,0 +1,47 @@
+body.english-body {
+    background-color: #faeee0; /* Light blue background */
+    color: #a1570d; /* Dark blue text */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d18902; /* Blue header */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.resources-container, .exercises-container, .quizzes-container {
+    padding: 20px;
+    margin: 20px;
+}
+
+.resource-item, .exercise-item, .quiz-item {
+    background-color: #ffffff; /* White background for items */
+    border: 2px solid #d17e02; /* Border color */
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #d17002;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
